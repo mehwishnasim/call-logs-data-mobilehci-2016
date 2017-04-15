@@ -12,7 +12,7 @@ The data file has the following columns:
 
 srNo,user,contact,code,callDirection,callTime,callDate,callDay,dataDay,dataTime
 
-The last two fields indicate when the timestamp of when the data was downloaded. 
+The last two fields indicate the timestamp of when the data was downloaded. 
 
 If you use this data then please cite our paper:
 
