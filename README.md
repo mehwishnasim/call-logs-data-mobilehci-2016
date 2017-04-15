@@ -11,3 +11,15 @@ srNo,user,contact,code,callDirection,callTime,callDate,callDay,dataDay,dataTime
 
 The last two fields indicate when the timestamp of when the data was downloaded. 
 
+If you use this data then please cite our paper:
+
+BibTeX:
+@inproceedings{nasim2016understanding,
+  title={Understanding call logs of smartphone users for making future calls},
+  author={Nasim, Mehwish and Rextin, Aimal and Khan, Numair and Malik, Muhammad Muddassir},
+  booktitle={Proceedings of the 18th International Conference on Human-Computer Interaction with Mobile Devices and Services},
+  pages={483--490},
+  year={2016},
+  organization={ACM}
+}
+
