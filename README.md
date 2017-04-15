@@ -5,6 +5,9 @@ To this end, we collected a mobile phone usage dataset
 from a developing country – Pakistan. The data consists of
 about 800 ego profiles and 229450 communication events.
 
+
+Data was collected from the general population of Pakistan using an android app called: Package Advisor. The shared data does not contain personally identifiable information.
+
 The data file has the following columns:
 
 srNo,user,contact,code,callDirection,callTime,callDate,callDay,dataDay,dataTime
